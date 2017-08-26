@@ -1,5 +1,5 @@
-exclude node_modules
-npm install
+exclude node_modules file,
+npm install.
 
-in terminal: node server.js
-in terminal:  webpack
+in terminal: run node server.js,
+in terminal: run webpack
